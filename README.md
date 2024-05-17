@@ -5,4 +5,5 @@ Jonathan Yap
 
 Libaries to pip install\
 pip install pandas\
-pip install mathplotlib
+pip install mathplotlib\
+pip install openpyxl
