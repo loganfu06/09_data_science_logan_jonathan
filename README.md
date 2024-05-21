@@ -7,5 +7,5 @@ Libaries to pip install\
 pip install pandas\
 pip install matplotlib\
 pip install openpyxl\
-pip install sckit-learn\
-pip install patsy\
+pip install scikit-learn\
+pip install patsy
