@@ -5,5 +5,7 @@ Jonathan Yap
 
 Libaries to pip install\
 pip install pandas\
-pip install mathplotlib\
-pip install openpyxl
+pip install matplotlib\
+pip install openpyxl\
+pip install sckit-learn\
+pip install patsy\
